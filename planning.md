@@ -43,5 +43,7 @@
 - Lake Como
 - Drive back in the afternoon
 - Hotels:
-  - 
+  - Hotel Como:
+    - 440 CHF
+    - [Booking](https://www.booking.com/hotel/it/hotelcomocomo.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCyIAQGYAQm4ARnIAQ_YAQHoAQH4AQyIAgGoAgO4Aq23oq4GwAIB0gIkNTIxNTdiZGMtZThmYi00Y2E0LTg0MGQtN2M4NDIxMTVkOWNk2AIG4AIB&sid=aabb82460496088d7d30d9809d19084e&atlas_src=sr_iw_btn;checkin=2024-04-23;checkout=2024-04-24;dest_id=-116052;dest_type=city;dist=0;group_adults=4;group_children=0;highlighted_blocks=8092316_369137849_3_1_0%2C8092313_369137849_1_1_0;nflt=ht_id%3D204%3Bhotelfacility%3D2;no_rooms=2;room1=A%2CA;room2=A%2CA;sb_price_type=total;type=total;ucfs=1&)
 
